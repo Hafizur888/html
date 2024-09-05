@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="img">
+</head>
+<body>
+    <nav class="navigatin"><a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Contact</a>
+    </nav>
+ <article class="article">
+    <h2>How to Become a<span style="color: red;"> Web developer</span></h2>
+    <img src="web1.jpg" alt="web development" width="300px">
+    <p>By <a href="#">Hafizur Rahman</a> Date:03-09-2024</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt eum consequatur natus quas, at tempora quibusdam saepe tempore repudiandae ab ipsa sequi aut iure dolore. Esse perspiciatis illo quos et magni laborum possimus laudantium dignissimos labore porro! Laborum, rem temporibus.</p>
+    <a href="#">Read more</a>
+ </article>
+ <article class="article">
+    <h2>How to Become a developer</h2>
+    <img src="web2.jpg" alt="web development" width="300px">
+    <p>By <a href="#">Hafizur Rahman</a> Date:03-09-2024</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt eum consequatur natus quas, at tempora quibusdam saepe tempore repudiandae ab ipsa sequi aut iure dolore. Esse perspiciatis illo quos et magni laborum possimus laudantium dignissimos labore porro! Laborum, rem temporibus.</p>
+    <a href="#">Read more</a>
+ </article>
+ <article class="article">
+    <h2>How to Become a developer</h2>
+    <img src="web3.jpg" alt="web development" width="300px">
+    <p>By <a href="#">Hafizur Rahman</a> Date:03-09-2024</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt eum consequatur natus quas, at tempora quibusdam saepe tempore repudiandae ab ipsa sequi aut iure dolore. Esse perspiciatis illo quos et magni laborum possimus laudantium dignissimos labore porro! Laborum, rem temporibus.</p>
+    <a href="#">Read more</a>
+ </article>
+ <article class="article">
+    <h2>How to Become a developer</h2>
+    <img src="web2.jpg" alt="web development" width="300px">
+    <p>By <a href="#">Hafizur Rahman</a> Date:03-09-2024</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt eum consequatur natus quas, at tempora quibusdam saepe tempore repudiandae ab ipsa sequi aut iure dolore. Esse perspiciatis illo quos et magni laborum possimus laudantium dignissimos labore porro! Laborum, rem temporibus.</p>
+    <a href="#">Read more</a>
+ </article>
+<footer class="footer">
+<p>&sect; All rights reserved</p>
+</footer>
+</body>
+</html>
